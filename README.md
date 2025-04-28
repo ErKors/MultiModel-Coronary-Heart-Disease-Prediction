@@ -12,7 +12,7 @@ The source dataset is publically available on the Kaggle website, and it is from
 
 # Demographic Attributes:
 
-gender: Male / Female
+gender: Male / Female  
 age: integer
 attended_college: whether or not the patient attended college
 
