@@ -13,29 +13,29 @@ The source dataset is publically available on the Kaggle website, and it is from
 # Demographic Attributes:
 
 gender: Male / Female  
-age: integer
-attended_college: whether or not the patient attended college
+age: integer  
+attended_college: whether or not the patient attended college  
 
 # Behavioral Attributes:
 
-currentSmoker: whether or not the patient is a current smoker
+currentSmoker: whether or not the patient is a current smoker  
 cigsPerDay: the number of cigarettes that the person smoked on average in one day
 
 # Medical History Attributes:
 
-BPMeds: whether or not the patient was on blood pressure medication
-prevalentStroke: whether or not the patient had previously had a stroke
-prevalentHyp: whether or not the patient was hypertensive
-diabetes: whether or not the patient had diabetes.
+BPMeds: whether or not the patient was on blood pressure medication  
+prevalentStroke: whether or not the patient had previously had a stroke  
+prevalentHyp: whether or not the patient was hypertensive  
+diabetes: whether or not the patient had diabetes.  
 
 # Current Medical Condition Attributes (continuous variables):
 
-totChol: total cholesterol level
-sysBP: systolic blood pressure
-diaBP: diastolic blood pressure
-BMI: Body Mass Index
-heartRate: heart rate
-glucose: glucose level
+totChol: total cholesterol level  
+sysBP: systolic blood pressure  
+diaBP: diastolic blood pressure  
+BMI: Body Mass Index  
+heartRate: heart rate  
+glucose: glucose level  
 
 # Target variable to predict:
 
